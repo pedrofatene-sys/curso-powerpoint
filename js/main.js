@@ -1,7 +1,7 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
     { id: '78qY_EZGjM4', name: 'Conhecendo área de trabalho e conceitos do PowerPoint' },
-    { id: 'ZRZi2By2SZA', name: 'Criando a primeira apresentação },
+    { id: 'ZRZi2By2SZA', name: 'Criando a primeira apresentação' },
     { id: 'yDaz5SsxXvA', name: 'Criar slide com animação' }
     
 ];
