@@ -2,8 +2,22 @@
 const channels = [
     { id: '78qY_EZGjM4', name: 'Conhecendo área de trabalho e conceitos do PowerPoint' },
     { id: 'ZRZi2By2SZA', name: 'Criando a primeira apresentação' },
-    { id: 'yDaz5SsxXvA', name: 'Criar slide com animação' }
-    
+    { id: 'yDaz5SsxXvA', name: 'Criar slide com animação' },
+    { id: 'breATD2FNVc', name: 'Como criar transição de slides' },
+    { id: '_fJ-WHZRDyo', name: 'Como criar slide show (transição de slides com fotos)' },
+    { id: 'xRzEzQfU8vg', name: 'Adicionando sons e música na apresentação' },
+    { id: 'I9lbrDei2YA', name: 'Editar e formatar texto' }, 
+    { id: '8r_S3ukqcLU', name: 'Como criar link nos slides' },
+    { id: 'HvyEV76TaYA', name: 'Adicionar e editar vídeos' },
+    { id: 'RWg_v0AqXZE', name: 'Como fazer captura de tela' },
+    { id: 'Zsz9AlBT8xc', name: 'Criando mescla de texto com elementos no PowerPoint' },
+    { id: 'aTYFsVQEWPc', name: 'Apresentação criativa com poucos elementos' },
+    { id: '86JJtBGnzPU', name: 'Dicas e técnicas para criar slides' },
+    { id: 'faUb7G4g6Go', name: 'Dicas e técnicas para criar slides' },
+    { id: 'doflCSH3inU', name: 'Dicas e técnicas para criar slides' },
+    { id: 'Nh6yiIkRJgY', name: 'Transição de slides - Efeito transformar' },
+    { id: 'AUEha_e2DfU', name: 'Apresentação fácil e criativa' },
+    { id: 'jWU3Fp-0cU8', name: 'Aplicar link nos slides com transição' } 
 ];
 
 // Estado atual
